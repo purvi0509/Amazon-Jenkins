@@ -21,7 +21,7 @@ pipeline {
   post{
     
   failure{
-       echo 'Failure in the build1'
+       echo 'Failure in the build'
    }
 
   }
